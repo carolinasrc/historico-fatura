@@ -1,16 +1,9 @@
-# Proposta Histórico Fatura
-
-Primeiramente obrigado por estar aqui! E querer trabalhar no Itaú Unibanco! 
-
-Esse é nosso 1 de 3 onde iremos avaliar sua lógica de programação e conhecimentos em Java.  
-O método de avaliação é simples, tendo seu código em mãos iremos validar se você construiu o projeto atendendo ao cenário proposto e os requisitos.
-
 ### Cenário Proposto
 
 * Neste projeto uma classe que possui uma lista de lançamentos de cartão de crédito de um cliente, de forma desorganizada.
 * Precisamos escrever no console os gastos ordenados por meses.
-* Escrever todos os lancamentos de uma mesma categoria de sua escolha.
-* Mostrar o total da fatura de um mes em específico de sua escolha.
+* Escrever todos os lançamentos de uma mesma categoria de sua escolha.
+* Mostrar o total da fatura de um mês em específico de sua escolha.
 
 ### Requisitos
 
